@@ -9,5 +9,5 @@ boto3==1.9.188
 PyJWT==1.7.1
 watchtower==0.6.0
 requests==2.22.0
-cryptography==2.7
+cryptography==3.2
 JSON-log-formatter==0.2.0
